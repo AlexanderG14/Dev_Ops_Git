@@ -11,4 +11,4 @@ As with any computer science student I'm naturally interested with how things cu
 
 More importantly, job satisfaction within the industry riduculously high with most developers participating in the stackoverflow survey rating their satisfaction as 'slightly satisfied' or 'very satisfied'. I guess the money probably plays a part too. Next, software engineering is still a young field, and I mean literally young. Most people who are getting into it are still in their 20s and 30s. I mean if I were to work for a firm I'd like to be around workers my age, no disrespect to older people, just more to talk about. To be honest, I didn't really expect such a big majority to be so young. I mean I thought there'd be a larger hump around the 40s range since we did go through the dot-com boom and bust. Still interesting.
 
-
+This was an interesting article with useful information for anyone going into the Software Development field. I really appreciate that the piece showed that a lot of developers work remote.  I personally like the idea of being able to work remotely.  Edit by: Alexander. 
